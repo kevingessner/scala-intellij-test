@@ -15,7 +15,7 @@ library because it doesn't have any dependencies.
 ## Build
 
 ```
-bazel run :example_deploy -- some args
+bazel run :example_binary -- some args
 ```
 
 Prints the arguments.
